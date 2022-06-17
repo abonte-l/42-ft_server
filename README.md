@@ -1,7 +1,7 @@
 # 42-ft_server
   
   
-![image info](https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg)
+`Docker` `Shell` `PHP`
 
 
 [![abonte-l's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ihoc5o006109joivmaaf1o/project/2060769)](https://github.com/JaeSeoKim/badge42)
